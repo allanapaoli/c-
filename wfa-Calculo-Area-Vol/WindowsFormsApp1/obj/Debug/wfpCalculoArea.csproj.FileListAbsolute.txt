@@ -7,3 +7,13 @@ c:\users\internet\documents\visual studio 2017\Projects\WindowsFormsApp1\Windows
 c:\users\internet\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\wfpCalculoArea.csproj.GenerateResource.Cache
 c:\users\internet\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 c:\users\internet\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Allana\Desktop\C#\c-\wfa-Calculo-Area-Vol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Allana\Desktop\C#\c-\wfa-Calculo-Area-Vol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Allana\Desktop\C#\c-\wfa-Calculo-Area-Vol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Allana\Desktop\C#\c-\wfa-Calculo-Area-Vol\WindowsFormsApp1\obj\Debug\wfpCalculoArea.csprojAssemblyReference.cache
+C:\Users\Allana\Desktop\C#\c-\wfa-Calculo-Area-Vol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmCalculoArea.resources
+C:\Users\Allana\Desktop\C#\c-\wfa-Calculo-Area-Vol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Allana\Desktop\C#\c-\wfa-Calculo-Area-Vol\WindowsFormsApp1\obj\Debug\wfpCalculoArea.csproj.GenerateResource.cache
+C:\Users\Allana\Desktop\C#\c-\wfa-Calculo-Area-Vol\WindowsFormsApp1\obj\Debug\wfpCalculoArea.csproj.CoreCompileInputs.cache
+C:\Users\Allana\Desktop\C#\c-\wfa-Calculo-Area-Vol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Allana\Desktop\C#\c-\wfa-Calculo-Area-Vol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

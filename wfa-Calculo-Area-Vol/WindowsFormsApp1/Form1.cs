@@ -19,7 +19,7 @@ namespace WindowsFormsApp1
 
         private void btnCalculo_Click(object sender, EventArgs e)
         {
-            float x;
+            float x, y, z;
             if (rdbQuadrado.Checked)
             {
                 if (txtX.Text.Trim() != "")
@@ -32,6 +32,30 @@ namespace WindowsFormsApp1
                     MessageBox.Show("Preenchimento obrigatório de X!");
                     txtX.Focus();
                     return;
+                }
+            }
+            if (rdbRetangulo.Checked)
+            {
+                if ((txtX.Text.Trim() != "") && (txtY.Text.Trim() != ""))
+                {
+                    x = float.Parse(txtX.Text);
+                    y = float.Parse(txtY.Text);
+                    txtAreaVol.Text = area(x, y).ToString();
+                }
+                else
+                {
+                    if ((txtX.Text.Trim() == ""))
+                    {
+                        MessageBox.Show("Preenchimento obrigatório de X!");
+                        txtX.Focus();
+                        return;
+                    }
+                    else
+                    {
+                        MessageBox.Show("Preenchimento obrigatório de Y!");
+                        txtY.Focus();
+                        return;
+                    }
                 }
             }
 
